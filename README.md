@@ -1,1 +1,1 @@
-[![Banner](https://playcap.app/banner.png)](https://playcap.app/)
+[![Banner](https://playcap.app/banner.png?)](https://playcap.app/)
